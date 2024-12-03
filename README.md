@@ -1,5 +1,5 @@
 # vehicles_env
-Se desarrollo una aplicación web para analizar y visualizar datos de anuncios de vehiculos. El desarrollo fue mediante streamlit.
+Se desarrollo una aplicación web desde un dataframe limpio para analizar y visualizar datos de anuncios de vehiculos. El desarrollo fue mediante streamlit.
 
 #Funcionalidades
 Historigrama: Analiza la distribución del kilometraje (`odometer`) de los vehículos en venta.
