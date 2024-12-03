@@ -12,3 +12,5 @@ Para ejecutar la aplicación, se ocuparon las siguientes dependencias:
 - Plotly Express
 
 Creador por Ariadna Tapia
+
+URL APLICACIÓN WEB https://vehicles-env-a9vw.onrender.com
